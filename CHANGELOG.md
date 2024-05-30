@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.21] - 2024-05-30
+
+### Bug Fixes
+
+- Fix url input symbols line break
+- Fix read text from clipboard no permissions
+
+### Miscellaneous Tasks
+
+- Update dependencies
+- Version 0.1.20
+- Version 0.1.21
+
+### Refactor
+
+- Set overflow hidden for editor
+
 ## [0.1.20] - 2024-04-21
 
 ### Bug Fixes
